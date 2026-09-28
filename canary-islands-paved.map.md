@@ -33,6 +33,22 @@ The east-side climb to the top of the island, nearly two thousand metres up. Fro
 Valsequillo, Canary Is., Spain <GC-130> 27.96851 -15.48485
 27.96206, -15.57199
 
+# GC-200 west coast road, Agaete to Puerto de Mogán
+ride
+
+Worth	epic
+Curviness	twisty
+Views	spectacular
+
+The whole west coast of the island in one road. North of La Aldea it hangs on the Tamadaba cliffs hundreds of metres above the sea, with the ridges of the Dragon's Tail running out into the water and Tenerife across the strait; south of La Aldea it turns inland through the coloured rock of Veneguera and the Mogán valley. Some three hundred bends, a road that was once the most dangerous in Spain, and views to stop for at every lay-by.
+
+Agaete, Canary Is., Spain <GC-172> 28.09977 -15.70096
+28.05412, -15.73290
+La Aldea de San Nicolás, Canary Is., Spain <GC-200> 27.98127 -15.78443
+27.92436, -15.74102
+Mogán, Canary Is., Spain <GC-200> 27.87898 -15.72683
+27.82997, -15.75538
+
 # GC-21 Teror to Artenara
 ride
 
@@ -109,6 +125,20 @@ San Sebastián de la Gomera, Canary Is., Spain <GM-1> 28.09128 -17.11375
 La Calera, Canary Is., Spain <GM-1> 28.10157 -17.32900
 28.09414, -17.33597
 
+# HI-500 Sabinosa to the Orchilla lighthouse
+ride, ride_quest
+
+Worth	great
+Curviness	punishing
+Views	spectacular
+Traffic	empty
+
+The road to the end of the old world. From Sabinosa it drops in hairpins towards the spa at Pozo de la Salud, then winds south across black lava flows and red cinder above the empty west coast of El Hierro, three metres wide in places, without barriers, past the Lomo Negro viewpoint and the marker of the old prime meridian, to the lighthouse at Orchilla. Curves of a hundred and eighty degrees, wind that never stops, and a landscape that looks like another planet.
+
+27.74729, -18.09690
+27.74565, -18.14339
+27.70494, -18.13421
+
 # LP-1 north coast, Barlovento to Puntagorda
 ride
 
@@ -153,6 +183,33 @@ Lanzarote's one real mountain road. From the old capital the LZ-10 runs north al
 
 Teguise, Canary Is., Spain <LZ-10> 29.06234 -13.55342
 Haría, Canary Is., Spain <LZ-10> 29.14333 -13.50042
+
+# LZ-67 through Timanfaya, Yaiza to Mancha Blanca
+ride
+
+Worth	great
+Curviness	flowing
+Views	spectacular
+
+Not a road for corners, but one to ride once in a lifetime. From Yaiza it climbs gently into the Timanfaya national park and crosses the lava sea left by the eruptions of the 1730s, black clinker to the horizon on both sides, the red Fire Mountains ahead, and nothing growing on any of it. The only road across the park, and the reason riders take the ferry to Lanzarote.
+
+Yaiza, Canary Is., Spain 28.95529 -13.76205
+Tinajo, Canary Is., Spain 29.04374 -13.69274
+
+# TF-12 through the Anaga
+ride
+
+Worth	great
+Curviness	technical
+Views	spectacular
+Condition	smooth
+
+From the fishing village of San Andrés the road climbs into the oldest corner of Tenerife and then rides the crest of the Anaga massif for thirty kilometres. It is narrow, cut into rock in places, with more than a hundred bends, and it runs through ancient laurel forest that is usually dripping with mist. Where the trees open there are views down both flanks to the sea. Little traffic; wet leaves and fog are the hazards.
+
+San Andrés, Canary Is., Spain 28.50435 -16.19134
+28.54612, -16.20876
+Jardina, Canary Is., Spain <TF-12> 28.52405 -16.28784
+28.51897, -16.29658
 
 # TF-134 El Bailadero down to Taganana and Benijo
 ride

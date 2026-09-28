@@ -1,9 +1,10 @@
 # Canary Islands — an XPlatform catalog
 
-Eighteen paved roads worth riding on six of the seven islands: the Teide and
-the Masca road on Tenerife, the Cumbre of Gran Canaria, the Roque de los
-Muchachos on La Palma, and the coast and ridge roads of La Gomera, Lanzarote
-and Fuerteventura.
+Twenty-two paved roads worth riding on all seven islands: the Teide, the
+Masca road and the Anaga on Tenerife, the Cumbre and the west coast road of
+Gran Canaria, the Roque de los Muchachos on La Palma, the road to the Orchilla
+lighthouse on El Hierro, Timanfaya on Lanzarote, and the coast and ridge roads
+of La Gomera and Fuerteventura.
 
 ## Add it to XPlatform
 
